@@ -1,0 +1,28 @@
+h1 {
+    color: blue; 
+  }
+ button {
+    margin-left: 960px;
+    margin-top: 100px;
+    padding: 10px;
+    color: blue;
+ }
+
+ .number {
+    width: 800px;
+    height: 500px;
+    border: 2px dotted red;
+    padding-left: 100px;
+   padding-top: 100px;
+ }
+
+ .number img {
+    width: 500px;
+    height: 300px;
+ }
+
+ body {
+    background-image: url('hill.png');
+    background-size: cover ;
+    
+ }
